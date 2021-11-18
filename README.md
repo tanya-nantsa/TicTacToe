@@ -7,7 +7,7 @@ A terminal game where the user chooses to either be X or O. The user takes turns
 ## Running Application
 
 To run this project on your own computer clone this repo then open this folder in your terminal. <br/>
-Type `make` on command line. Then enter `./tictactoe` to open the game in terminal.
+Type `make` on command line to build an executable. Then enter `./tictactoe` to open and run the game in terminal.
 
 ## Usage
 
